@@ -1,0 +1,3 @@
+[submodule "themes/tale"]
+	path = themes/tale
+	url = https://gitlab.com/jamietanna/www.jvt.me-theme.git
