@@ -1,4 +1,4 @@
 baseURL = "https://taupe-kelpie-d11938.netlify.app/"
-languageCode = "en-gb"
+languageCode = "en-us"
 title = "blog.onoj.me"
 theme = "tale"
